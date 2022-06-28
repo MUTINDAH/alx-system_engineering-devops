@@ -1,1 +1,2 @@
-VimCrypt~03!Ë˜Èør •ÏŠÊ3½¶œ#BU…0šæ§VîÂ3Ò¹¶%JèÐ&®^höæ7Û;‚p`[Í¾0©
+#!/bin/bash
+echo $((POWER/DIVIDE))
